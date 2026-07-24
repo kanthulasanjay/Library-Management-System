@@ -1,0 +1,201 @@
+book_id,title,author,category,publisher,year,isbn,total_copies,available_copies
+B001,Programming Volume 1,John Smith,Programming,Pearson,2018,9780135000001,3,2
+B002,Data Science Volume 2,Andrew Ng,Data Science,O'Reilly,2019,9780135000002,4,3
+B003,Artificial Intelligence Volume 3,Jake VanderPlas,Artificial Intelligence,Wiley,2020,9780135000003,5,5
+B004,Database Volume 4,Ian Goodfellow,Database,McGraw Hill,2021,9780135000004,6,5
+B005,Networking Volume 5,Ramesh Kumar,Networking,Springer,2022,9780135000005,7,5
+B006,Cyber Security Volume 6,Herbert Schildt,Cyber Security,MIT Press,2023,9780135000006,8,8
+B007,Cloud Computing Volume 7,Dennis Ritchie,Cloud Computing,Elsevier,2024,9780135000007,2,1
+B008,Software Engineering Volume 8,Andrew Tanenbaum,Software Engineering,Packt,2025,9780135000008,3,1
+B009,Operating Systems Volume 9,William Stallings,Operating Systems,Pearson,2026,9780135000009,4,4
+B010,Web Development Volume 10,Robert Martin,Web Development,O'Reilly,2018,9780135000010,5,4
+B011,Programming Volume 11,John Smith,Programming,Wiley,2019,9780135000011,6,4
+B012,Data Science Volume 12,Andrew Ng,Data Science,McGraw Hill,2020,9780135000012,7,7
+B013,Artificial Intelligence Volume 13,Jake VanderPlas,Artificial Intelligence,Springer,2021,9780135000013,8,7
+B014,Database Volume 14,Ian Goodfellow,Database,MIT Press,2022,9780135000014,2,0
+B015,Networking Volume 15,Ramesh Kumar,Networking,Elsevier,2023,9780135000015,3,3
+B016,Cyber Security Volume 16,Herbert Schildt,Cyber Security,Packt,2024,9780135000016,4,3
+B017,Cloud Computing Volume 17,Dennis Ritchie,Cloud Computing,Pearson,2025,9780135000017,5,3
+B018,Software Engineering Volume 18,Andrew Tanenbaum,Software Engineering,O'Reilly,2026,9780135000018,6,6
+B019,Operating Systems Volume 19,William Stallings,Operating Systems,Wiley,2018,9780135000019,7,6
+B020,Web Development Volume 20,Robert Martin,Web Development,McGraw Hill,2019,9780135000020,8,6
+B021,Programming Volume 21,John Smith,Programming,Springer,2020,9780135000021,2,2
+B022,Data Science Volume 22,Andrew Ng,Data Science,MIT Press,2021,9780135000022,3,2
+B023,Artificial Intelligence Volume 23,Jake VanderPlas,Artificial Intelligence,Elsevier,2022,9780135000023,4,2
+B024,Database Volume 24,Ian Goodfellow,Database,Packt,2023,9780135000024,5,5
+B025,Networking Volume 25,Ramesh Kumar,Networking,Pearson,2024,9780135000025,6,5
+B026,Cyber Security Volume 26,Herbert Schildt,Cyber Security,O'Reilly,2025,9780135000026,7,5
+B027,Cloud Computing Volume 27,Dennis Ritchie,Cloud Computing,Wiley,2026,9780135000027,8,8
+B028,Software Engineering Volume 28,Andrew Tanenbaum,Software Engineering,McGraw Hill,2018,9780135000028,2,1
+B029,Operating Systems Volume 29,William Stallings,Operating Systems,Springer,2019,9780135000029,3,1
+B030,Web Development Volume 30,Robert Martin,Web Development,MIT Press,2020,9780135000030,4,4
+B031,Programming Volume 31,John Smith,Programming,Elsevier,2021,9780135000031,5,4
+B032,Data Science Volume 32,Andrew Ng,Data Science,Packt,2022,9780135000032,6,4
+B033,Artificial Intelligence Volume 33,Jake VanderPlas,Artificial Intelligence,Pearson,2023,9780135000033,7,7
+B034,Database Volume 34,Ian Goodfellow,Database,O'Reilly,2024,9780135000034,8,7
+B035,Networking Volume 35,Ramesh Kumar,Networking,Wiley,2025,9780135000035,2,0
+B036,Cyber Security Volume 36,Herbert Schildt,Cyber Security,McGraw Hill,2026,9780135000036,3,3
+B037,Cloud Computing Volume 37,Dennis Ritchie,Cloud Computing,Springer,2018,9780135000037,4,3
+B038,Software Engineering Volume 38,Andrew Tanenbaum,Software Engineering,MIT Press,2019,9780135000038,5,3
+B039,Operating Systems Volume 39,William Stallings,Operating Systems,Elsevier,2020,9780135000039,6,6
+B040,Web Development Volume 40,Robert Martin,Web Development,Packt,2021,9780135000040,7,6
+B041,Programming Volume 41,John Smith,Programming,Pearson,2022,9780135000041,8,6
+B042,Data Science Volume 42,Andrew Ng,Data Science,O'Reilly,2023,9780135000042,2,2
+B043,Artificial Intelligence Volume 43,Jake VanderPlas,Artificial Intelligence,Wiley,2024,9780135000043,3,2
+B044,Database Volume 44,Ian Goodfellow,Database,McGraw Hill,2025,9780135000044,4,2
+B045,Networking Volume 45,Ramesh Kumar,Networking,Springer,2026,9780135000045,5,5
+B046,Cyber Security Volume 46,Herbert Schildt,Cyber Security,MIT Press,2018,9780135000046,6,5
+B047,Cloud Computing Volume 47,Dennis Ritchie,Cloud Computing,Elsevier,2019,9780135000047,7,5
+B048,Software Engineering Volume 48,Andrew Tanenbaum,Software Engineering,Packt,2020,9780135000048,8,8
+B049,Operating Systems Volume 49,William Stallings,Operating Systems,Pearson,2021,9780135000049,2,1
+B050,Web Development Volume 50,Robert Martin,Web Development,O'Reilly,2022,9780135000050,3,1
+B051,Programming Volume 51,John Smith,Programming,Wiley,2023,9780135000051,4,4
+B052,Data Science Volume 52,Andrew Ng,Data Science,McGraw Hill,2024,9780135000052,5,4
+B053,Artificial Intelligence Volume 53,Jake VanderPlas,Artificial Intelligence,Springer,2025,9780135000053,6,4
+B054,Database Volume 54,Ian Goodfellow,Database,MIT Press,2026,9780135000054,7,7
+B055,Networking Volume 55,Ramesh Kumar,Networking,Elsevier,2018,9780135000055,8,7
+B056,Cyber Security Volume 56,Herbert Schildt,Cyber Security,Packt,2019,9780135000056,2,0
+B057,Cloud Computing Volume 57,Dennis Ritchie,Cloud Computing,Pearson,2020,9780135000057,3,3
+B058,Software Engineering Volume 58,Andrew Tanenbaum,Software Engineering,O'Reilly,2021,9780135000058,4,3
+B059,Operating Systems Volume 59,William Stallings,Operating Systems,Wiley,2022,9780135000059,5,3
+B060,Web Development Volume 60,Robert Martin,Web Development,McGraw Hill,2023,9780135000060,6,6
+B061,Programming Volume 61,John Smith,Programming,Springer,2024,9780135000061,7,6
+B062,Data Science Volume 62,Andrew Ng,Data Science,MIT Press,2025,9780135000062,8,6
+B063,Artificial Intelligence Volume 63,Jake VanderPlas,Artificial Intelligence,Elsevier,2026,9780135000063,2,2
+B064,Database Volume 64,Ian Goodfellow,Database,Packt,2018,9780135000064,3,2
+B065,Networking Volume 65,Ramesh Kumar,Networking,Pearson,2019,9780135000065,4,2
+B066,Cyber Security Volume 66,Herbert Schildt,Cyber Security,O'Reilly,2020,9780135000066,5,5
+B067,Cloud Computing Volume 67,Dennis Ritchie,Cloud Computing,Wiley,2021,9780135000067,6,5
+B068,Software Engineering Volume 68,Andrew Tanenbaum,Software Engineering,McGraw Hill,2022,9780135000068,7,5
+B069,Operating Systems Volume 69,William Stallings,Operating Systems,Springer,2023,9780135000069,8,8
+B070,Web Development Volume 70,Robert Martin,Web Development,MIT Press,2024,9780135000070,2,1
+B071,Programming Volume 71,John Smith,Programming,Elsevier,2025,9780135000071,3,1
+B072,Data Science Volume 72,Andrew Ng,Data Science,Packt,2026,9780135000072,4,4
+B073,Artificial Intelligence Volume 73,Jake VanderPlas,Artificial Intelligence,Pearson,2018,9780135000073,5,4
+B074,Database Volume 74,Ian Goodfellow,Database,O'Reilly,2019,9780135000074,6,4
+B075,Networking Volume 75,Ramesh Kumar,Networking,Wiley,2020,9780135000075,7,7
+B076,Cyber Security Volume 76,Herbert Schildt,Cyber Security,McGraw Hill,2021,9780135000076,8,7
+B077,Cloud Computing Volume 77,Dennis Ritchie,Cloud Computing,Springer,2022,9780135000077,2,0
+B078,Software Engineering Volume 78,Andrew Tanenbaum,Software Engineering,MIT Press,2023,9780135000078,3,3
+B079,Operating Systems Volume 79,William Stallings,Operating Systems,Elsevier,2024,9780135000079,4,3
+B080,Web Development Volume 80,Robert Martin,Web Development,Packt,2025,9780135000080,5,3
+B081,Programming Volume 81,John Smith,Programming,Pearson,2026,9780135000081,6,6
+B082,Data Science Volume 82,Andrew Ng,Data Science,O'Reilly,2018,9780135000082,7,6
+B083,Artificial Intelligence Volume 83,Jake VanderPlas,Artificial Intelligence,Wiley,2019,9780135000083,8,6
+B084,Database Volume 84,Ian Goodfellow,Database,McGraw Hill,2020,9780135000084,2,2
+B085,Networking Volume 85,Ramesh Kumar,Networking,Springer,2021,9780135000085,3,2
+B086,Cyber Security Volume 86,Herbert Schildt,Cyber Security,MIT Press,2022,9780135000086,4,2
+B087,Cloud Computing Volume 87,Dennis Ritchie,Cloud Computing,Elsevier,2023,9780135000087,5,5
+B088,Software Engineering Volume 88,Andrew Tanenbaum,Software Engineering,Packt,2024,9780135000088,6,5
+B089,Operating Systems Volume 89,William Stallings,Operating Systems,Pearson,2025,9780135000089,7,5
+B090,Web Development Volume 90,Robert Martin,Web Development,O'Reilly,2026,9780135000090,8,8
+B091,Programming Volume 91,John Smith,Programming,Wiley,2018,9780135000091,2,1
+B092,Data Science Volume 92,Andrew Ng,Data Science,McGraw Hill,2019,9780135000092,3,1
+B093,Artificial Intelligence Volume 93,Jake VanderPlas,Artificial Intelligence,Springer,2020,9780135000093,4,4
+B094,Database Volume 94,Ian Goodfellow,Database,MIT Press,2021,9780135000094,5,4
+B095,Networking Volume 95,Ramesh Kumar,Networking,Elsevier,2022,9780135000095,6,4
+B096,Cyber Security Volume 96,Herbert Schildt,Cyber Security,Packt,2023,9780135000096,7,7
+B097,Cloud Computing Volume 97,Dennis Ritchie,Cloud Computing,Pearson,2024,9780135000097,8,7
+B098,Software Engineering Volume 98,Andrew Tanenbaum,Software Engineering,O'Reilly,2025,9780135000098,2,0
+B099,Operating Systems Volume 99,William Stallings,Operating Systems,Wiley,2026,9780135000099,3,3
+B100,Web Development Volume 100,Robert Martin,Web Development,McGraw Hill,2018,9780135000100,4,3
+B101,Programming Volume 101,John Smith,Programming,Springer,2019,9780135000101,5,3
+B102,Data Science Volume 102,Andrew Ng,Data Science,MIT Press,2020,9780135000102,6,6
+B103,Artificial Intelligence Volume 103,Jake VanderPlas,Artificial Intelligence,Elsevier,2021,9780135000103,7,6
+B104,Database Volume 104,Ian Goodfellow,Database,Packt,2022,9780135000104,8,6
+B105,Networking Volume 105,Ramesh Kumar,Networking,Pearson,2023,9780135000105,2,2
+B106,Cyber Security Volume 106,Herbert Schildt,Cyber Security,O'Reilly,2024,9780135000106,3,2
+B107,Cloud Computing Volume 107,Dennis Ritchie,Cloud Computing,Wiley,2025,9780135000107,4,2
+B108,Software Engineering Volume 108,Andrew Tanenbaum,Software Engineering,McGraw Hill,2026,9780135000108,5,5
+B109,Operating Systems Volume 109,William Stallings,Operating Systems,Springer,2018,9780135000109,6,5
+B110,Web Development Volume 110,Robert Martin,Web Development,MIT Press,2019,9780135000110,7,5
+B111,Programming Volume 111,John Smith,Programming,Elsevier,2020,9780135000111,8,8
+B112,Data Science Volume 112,Andrew Ng,Data Science,Packt,2021,9780135000112,2,1
+B113,Artificial Intelligence Volume 113,Jake VanderPlas,Artificial Intelligence,Pearson,2022,9780135000113,3,1
+B114,Database Volume 114,Ian Goodfellow,Database,O'Reilly,2023,9780135000114,4,4
+B115,Networking Volume 115,Ramesh Kumar,Networking,Wiley,2024,9780135000115,5,4
+B116,Cyber Security Volume 116,Herbert Schildt,Cyber Security,McGraw Hill,2025,9780135000116,6,4
+B117,Cloud Computing Volume 117,Dennis Ritchie,Cloud Computing,Springer,2026,9780135000117,7,7
+B118,Software Engineering Volume 118,Andrew Tanenbaum,Software Engineering,MIT Press,2018,9780135000118,8,7
+B119,Operating Systems Volume 119,William Stallings,Operating Systems,Elsevier,2019,9780135000119,2,0
+B120,Web Development Volume 120,Robert Martin,Web Development,Packt,2020,9780135000120,3,3
+B121,Programming Volume 121,John Smith,Programming,Pearson,2021,9780135000121,4,3
+B122,Data Science Volume 122,Andrew Ng,Data Science,O'Reilly,2022,9780135000122,5,3
+B123,Artificial Intelligence Volume 123,Jake VanderPlas,Artificial Intelligence,Wiley,2023,9780135000123,6,6
+B124,Database Volume 124,Ian Goodfellow,Database,McGraw Hill,2024,9780135000124,7,6
+B125,Networking Volume 125,Ramesh Kumar,Networking,Springer,2025,9780135000125,8,6
+B126,Cyber Security Volume 126,Herbert Schildt,Cyber Security,MIT Press,2026,9780135000126,2,2
+B127,Cloud Computing Volume 127,Dennis Ritchie,Cloud Computing,Elsevier,2018,9780135000127,3,2
+B128,Software Engineering Volume 128,Andrew Tanenbaum,Software Engineering,Packt,2019,9780135000128,4,2
+B129,Operating Systems Volume 129,William Stallings,Operating Systems,Pearson,2020,9780135000129,5,5
+B130,Web Development Volume 130,Robert Martin,Web Development,O'Reilly,2021,9780135000130,6,5
+B131,Programming Volume 131,John Smith,Programming,Wiley,2022,9780135000131,7,5
+B132,Data Science Volume 132,Andrew Ng,Data Science,McGraw Hill,2023,9780135000132,8,8
+B133,Artificial Intelligence Volume 133,Jake VanderPlas,Artificial Intelligence,Springer,2024,9780135000133,2,1
+B134,Database Volume 134,Ian Goodfellow,Database,MIT Press,2025,9780135000134,3,1
+B135,Networking Volume 135,Ramesh Kumar,Networking,Elsevier,2026,9780135000135,4,4
+B136,Cyber Security Volume 136,Herbert Schildt,Cyber Security,Packt,2018,9780135000136,5,4
+B137,Cloud Computing Volume 137,Dennis Ritchie,Cloud Computing,Pearson,2019,9780135000137,6,4
+B138,Software Engineering Volume 138,Andrew Tanenbaum,Software Engineering,O'Reilly,2020,9780135000138,7,7
+B139,Operating Systems Volume 139,William Stallings,Operating Systems,Wiley,2021,9780135000139,8,7
+B140,Web Development Volume 140,Robert Martin,Web Development,McGraw Hill,2022,9780135000140,2,0
+B141,Programming Volume 141,John Smith,Programming,Springer,2023,9780135000141,3,3
+B142,Data Science Volume 142,Andrew Ng,Data Science,MIT Press,2024,9780135000142,4,3
+B143,Artificial Intelligence Volume 143,Jake VanderPlas,Artificial Intelligence,Elsevier,2025,9780135000143,5,3
+B144,Database Volume 144,Ian Goodfellow,Database,Packt,2026,9780135000144,6,6
+B145,Networking Volume 145,Ramesh Kumar,Networking,Pearson,2018,9780135000145,7,6
+B146,Cyber Security Volume 146,Herbert Schildt,Cyber Security,O'Reilly,2019,9780135000146,8,6
+B147,Cloud Computing Volume 147,Dennis Ritchie,Cloud Computing,Wiley,2020,9780135000147,2,2
+B148,Software Engineering Volume 148,Andrew Tanenbaum,Software Engineering,McGraw Hill,2021,9780135000148,3,2
+B149,Operating Systems Volume 149,William Stallings,Operating Systems,Springer,2022,9780135000149,4,2
+B150,Web Development Volume 150,Robert Martin,Web Development,MIT Press,2023,9780135000150,5,5
+B151,Programming Volume 151,John Smith,Programming,Elsevier,2024,9780135000151,6,5
+B152,Data Science Volume 152,Andrew Ng,Data Science,Packt,2025,9780135000152,7,5
+B153,Artificial Intelligence Volume 153,Jake VanderPlas,Artificial Intelligence,Pearson,2026,9780135000153,8,8
+B154,Database Volume 154,Ian Goodfellow,Database,O'Reilly,2018,9780135000154,2,1
+B155,Networking Volume 155,Ramesh Kumar,Networking,Wiley,2019,9780135000155,3,1
+B156,Cyber Security Volume 156,Herbert Schildt,Cyber Security,McGraw Hill,2020,9780135000156,4,4
+B157,Cloud Computing Volume 157,Dennis Ritchie,Cloud Computing,Springer,2021,9780135000157,5,4
+B158,Software Engineering Volume 158,Andrew Tanenbaum,Software Engineering,MIT Press,2022,9780135000158,6,4
+B159,Operating Systems Volume 159,William Stallings,Operating Systems,Elsevier,2023,9780135000159,7,7
+B160,Web Development Volume 160,Robert Martin,Web Development,Packt,2024,9780135000160,8,7
+B161,Programming Volume 161,John Smith,Programming,Pearson,2025,9780135000161,2,0
+B162,Data Science Volume 162,Andrew Ng,Data Science,O'Reilly,2026,9780135000162,3,3
+B163,Artificial Intelligence Volume 163,Jake VanderPlas,Artificial Intelligence,Wiley,2018,9780135000163,4,3
+B164,Database Volume 164,Ian Goodfellow,Database,McGraw Hill,2019,9780135000164,5,3
+B165,Networking Volume 165,Ramesh Kumar,Networking,Springer,2020,9780135000165,6,6
+B166,Cyber Security Volume 166,Herbert Schildt,Cyber Security,MIT Press,2021,9780135000166,7,6
+B167,Cloud Computing Volume 167,Dennis Ritchie,Cloud Computing,Elsevier,2022,9780135000167,8,6
+B168,Software Engineering Volume 168,Andrew Tanenbaum,Software Engineering,Packt,2023,9780135000168,2,2
+B169,Operating Systems Volume 169,William Stallings,Operating Systems,Pearson,2024,9780135000169,3,2
+B170,Web Development Volume 170,Robert Martin,Web Development,O'Reilly,2025,9780135000170,4,2
+B171,Programming Volume 171,John Smith,Programming,Wiley,2026,9780135000171,5,5
+B172,Data Science Volume 172,Andrew Ng,Data Science,McGraw Hill,2018,9780135000172,6,5
+B173,Artificial Intelligence Volume 173,Jake VanderPlas,Artificial Intelligence,Springer,2019,9780135000173,7,5
+B174,Database Volume 174,Ian Goodfellow,Database,MIT Press,2020,9780135000174,8,8
+B175,Networking Volume 175,Ramesh Kumar,Networking,Elsevier,2021,9780135000175,2,1
+B176,Cyber Security Volume 176,Herbert Schildt,Cyber Security,Packt,2022,9780135000176,3,1
+B177,Cloud Computing Volume 177,Dennis Ritchie,Cloud Computing,Pearson,2023,9780135000177,4,4
+B178,Software Engineering Volume 178,Andrew Tanenbaum,Software Engineering,O'Reilly,2024,9780135000178,5,4
+B179,Operating Systems Volume 179,William Stallings,Operating Systems,Wiley,2025,9780135000179,6,4
+B180,Web Development Volume 180,Robert Martin,Web Development,McGraw Hill,2026,9780135000180,7,7
+B181,Programming Volume 181,John Smith,Programming,Springer,2018,9780135000181,8,7
+B182,Data Science Volume 182,Andrew Ng,Data Science,MIT Press,2019,9780135000182,2,0
+B183,Artificial Intelligence Volume 183,Jake VanderPlas,Artificial Intelligence,Elsevier,2020,9780135000183,3,3
+B184,Database Volume 184,Ian Goodfellow,Database,Packt,2021,9780135000184,4,3
+B185,Networking Volume 185,Ramesh Kumar,Networking,Pearson,2022,9780135000185,5,3
+B186,Cyber Security Volume 186,Herbert Schildt,Cyber Security,O'Reilly,2023,9780135000186,6,6
+B187,Cloud Computing Volume 187,Dennis Ritchie,Cloud Computing,Wiley,2024,9780135000187,7,6
+B188,Software Engineering Volume 188,Andrew Tanenbaum,Software Engineering,McGraw Hill,2025,9780135000188,8,6
+B189,Operating Systems Volume 189,William Stallings,Operating Systems,Springer,2026,9780135000189,2,2
+B190,Web Development Volume 190,Robert Martin,Web Development,MIT Press,2018,9780135000190,3,2
+B191,Programming Volume 191,John Smith,Programming,Elsevier,2019,9780135000191,4,2
+B192,Data Science Volume 192,Andrew Ng,Data Science,Packt,2020,9780135000192,5,5
+B193,Artificial Intelligence Volume 193,Jake VanderPlas,Artificial Intelligence,Pearson,2021,9780135000193,6,5
+B194,Database Volume 194,Ian Goodfellow,Database,O'Reilly,2022,9780135000194,7,5
+B195,Networking Volume 195,Ramesh Kumar,Networking,Wiley,2023,9780135000195,8,8
+B196,Cyber Security Volume 196,Herbert Schildt,Cyber Security,McGraw Hill,2024,9780135000196,2,1
+B197,Cloud Computing Volume 197,Dennis Ritchie,Cloud Computing,Springer,2025,9780135000197,3,1
+B198,Software Engineering Volume 198,Andrew Tanenbaum,Software Engineering,MIT Press,2026,9780135000198,4,4
+B199,Operating Systems Volume 199,William Stallings,Operating Systems,Elsevier,2018,9780135000199,5,4
+B200,Web Development Volume 200,Robert Martin,Web Development,Packt,2019,9780135000200,6,4
